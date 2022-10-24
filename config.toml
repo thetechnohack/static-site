@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'The Techno Hack'
+title = 'WinuxDroid'
 paginate = 5
 
 [params]
@@ -63,9 +63,9 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "TheTechnoHack"
+    title = "WinuxDroid"
     subtitle = "Stay techyfied"
-    owner = "thetechnohack"
+    owner = "WinuxDroid"
     keywords = "programming"
     copyright = "xBoss Inc."
     menuMore = "Show more"
@@ -77,7 +77,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "TheTechnoHack"
+      logoText = "WinuxDroid"
       logoHomeLink = "/"
 
       [languages.en.menu]

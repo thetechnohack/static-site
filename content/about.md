@@ -4,7 +4,7 @@ title = "About"
 
 ## Hello there aliens !
 
-This is the **The Techno Hack** (thetechnohack).
+This is the **Winux kaggle Club** (WinuxDroid).
 We are a team of some curious students. We all starts with zero and still improving. We strongly believe in the process of **learning by doing** and that's what we are doing and encouraging others with the techno hack.
 Alongside our studies we manage some little things here.
 
